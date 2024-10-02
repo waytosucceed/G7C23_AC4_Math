@@ -1,0 +1,57 @@
+[
+  {
+      "question": "Study the following: <br>M: Sum of the lengths of any two sides of a triangle. <br>N: Third side of the same triangle. <br>Which of the given relations is true with respect to a triangle?",
+      "options": [
+          "M > N",
+          "M = N",
+          "M < N",
+          "M and N are not related"
+      ],
+      "correct": 0,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+      "question": "The angles of a triangle are (x − 40)°, (x − 20)° and (x/2 − 10)°. Find the value of x.",
+      "options": [
+          "90°",
+          "70°",
+          "80°",
+          "100°"
+      ],
+      "correct": 3,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+      "question": "Two angles of a triangle are equal and the third angle is greater than each of those angles by 30°. Determine the third angle of the triangle.",
+      "options": [
+          "80°",
+          "90°",
+          "50°",
+          "30°"
+      ],
+      "correct": 0,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+      "question": "The angles of a triangle are 3x, 4x, and 5x. Find the value of the smallest angle.",
+      "options": [
+          "55°",
+          "20°",
+          "15°",
+          "45°"
+      ],
+      "correct": 3,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+      "question": "Find the value of x.",
+      "options": [
+          "82°",
+          "80°",
+          "28°",
+          "68°"
+      ],
+      "correct": 2,
+      "img": "./assests/images/5.jpg"
+  }
+]
